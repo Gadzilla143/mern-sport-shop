@@ -1,0 +1,6 @@
+{
+  "mongoUR": "mongodb+srv://lincefragrancesuser:lincefragrancespass@lince-fragrances-cluste.bvxiq.mongodb.net/lincedb?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://yegor:TnHXiYnf5fNwiBFR@cluster0.9wsbv.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "lince-fragrances-jwt-secret",
+  "jwtExpiresIn": "7d"
+}
